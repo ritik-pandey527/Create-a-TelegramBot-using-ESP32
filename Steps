@@ -1,0 +1,15 @@
+Here are the Setps to Create TelegramBot using ESP32:
+
+Step 1: Download Telegram and Login into it.
+
+Step 2: In Telegram Search @BotFather and click on Start.
+
+Step 3: click on /newbot, give name to your bot, now your bot is created.
+
+Step 4: You will find the bot link and HTTP API, note both.
+
+Step 5: Search in Telegram @myidbot, click on start, then click on /getid, note your id.
+
+Step 6: Install Arduino IDE, add ESP32 preference link, Download ESP32 boards.
+
+Step 7: Open Telegram.ino, in the code replace 
