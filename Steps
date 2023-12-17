@@ -12,6 +12,6 @@ Step 5: Search in Telegram @myidbot, click on start, then click on /getid, note 
 
 Step 6: Install Arduino IDE, add ESP32 preference link, Download ESP32 boards.
 
-Step 7: Open Telegram.ino, in the code replace wifi ssid & password, replace your telegram http api and chat id.
+Step 7: Open Create_Telegram_Bot.ino, in the code replace wifi ssid & password, replace your telegram http api and chat id.
 
 Step 8: Add your project logic in handleNewMessages().
